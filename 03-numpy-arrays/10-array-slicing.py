@@ -5,8 +5,8 @@ Slicing is used to extract a portion of an array using the format:
     arr[start:stop:step]
 
 Notes:
-- Start index is **inclusive**
-- Stop index is **exclusive**
+- Start index is inclusive
+- Stop index is exclusive
 - Step is optional (default is 1)
 - Negative step reverses the array
 """
