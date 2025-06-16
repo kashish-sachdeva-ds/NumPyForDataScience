@@ -20,7 +20,7 @@ print(numpy_array)
 - NumPy arrays display without commas
 - They support powerful operations like vectorized math, broadcasting, etc.
 
-💡 Why Use NumPy Arrays Instead of Lists?
+    Why Use NumPy Arrays Instead of Lists?
 - Faster performance on large data
 - Supports element-wise operations directly
 - Uses less memory
